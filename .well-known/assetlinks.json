@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.defibrillatorapp",
+    "sha256_cert_fingerprints":
+    ["79:5D:62:32:B2:89:FC:BF:41:AB:E3:1C:9C:05:30:FC:8B:BE:7B:BF:CE:30:0C:60:C9:5B:FE:3E:A2:24:20:95"]
+  }
+}]
